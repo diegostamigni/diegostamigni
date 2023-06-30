@@ -17,4 +17,6 @@ Some other projects I worked on which I'm proud of that I think are worth mentio
 
 ## Stats
 
-![diegostamigni's github stats](https://github-readme-stats.vercel.app/api?username=diegostamigni&show_icons=true&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=diegostamigni&show_icons=true&theme=dracula&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegostamigni&theme=dracula)
